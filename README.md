@@ -1,4 +1,4 @@
-# ⛰️ [산 넘어 산 SSuk 개발일지](https://www.notion.so/growing-ssuk/SSUK-H.github.io)
+# ⛰️ [산 넘어 산 SSuk 개발일지](https://ssuk-h.github.io/)
 
 진정한 개발자가 되기 위한 험난한 여정을 블로그를 통해 기록하기 위한 공간입니다.
 <br />
@@ -16,7 +16,9 @@
 #### 시작하기
 
 1. 레포지토리 클론하기: `git clone [레포지토리URL]`
+   
 2. Jekyll 및 의존성 설치하기: `bundle install`
+   
 3. 로컬 서버에서 실행하기: `bundle exec jekyll serve`
 
 #### 블로그 구성 및 커스터마이징
